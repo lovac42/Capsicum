@@ -7,7 +7,7 @@ Note: This addon no longer works with the changes made to the templates in 2.1.2
 ## About:
 When using incremental cloze, I always forget whether I added the sibling text. This will colorize all the siblings so there's no need to check with the editor. This addon will add css tags to cloze siblings so you can stylize siblings with different colors. You can also use addon: "front or back" to isolate the front side and the back side.
 
-<img src="https://github.com/lovac42/SpellingPolice/blob/master/screenshots/sib_cloze.png?raw=true">  
+<img src="https://github.com/lovac42/Capsicum/blob/master/screenshots/sib_cloze.png?raw=true">  
 
 
 ### Example:
